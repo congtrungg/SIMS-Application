@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5483DC8-D961-4CDD-8080-D435FD2773DF}|SIMS_TEST\\SIMS_TEST.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_test\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5483DC8-D961-4CDD-8080-D435FD2773DF}|SIMS_TEST\\SIMS_TEST.csproj|solutionrelative:sims_test\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\controllers\\studentcontrollerhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\controllers\\studentcontrollerhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5483DC8-D961-4CDD-8080-D435FD2773DF}|SIMS_TEST\\SIMS_TEST.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_test\\sims_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5483DC8-D961-4CDD-8080-D435FD2773DF}|SIMS_TEST\\SIMS_TEST.csproj|solutionrelative:sims_test\\sims_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\views\\authentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\views\\authentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\views\\student\\newstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\views\\student\\newstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\controllers\\teachercontrollerhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\controllers\\teachercontrollerhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5483DC8-D961-4CDD-8080-D435FD2773DF}|SIMS_TEST\\SIMS_TEST.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_test\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5483DC8-D961-4CDD-8080-D435FD2773DF}|SIMS_TEST\\SIMS_TEST.csproj|solutionrelative:sims_test\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\views\\teacher\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\views\\teacher\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\views\\teacher\\newteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\views\\teacher\\newteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|c:\\users\\nguoi tinh bong dem\\downloads\\sims_demo\\sims_demo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D2ED44-5836-4824-AC1F-DB5D6CBF987A}|SIMS_Demo\\SIMS_Demo.csproj|solutionrelative:sims_demo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SIMS_Demo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T18:55:32.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "SIMS_Demo\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-15T18:55:32.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SIMS_Demo\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T18:55:32.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_TEST\\Student.cs",
+              "RelativeDocumentMoniker": "SIMS_TEST\\Student.cs",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_TEST\\Student.cs",
+              "RelativeToolTip": "SIMS_TEST\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:54:19.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "SIMS_Demo\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAmwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:43:40.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Authentication\\Register.cshtml",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Views\\Authentication\\Register.cshtml",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Authentication\\Register.cshtml",
+              "RelativeToolTip": "SIMS_Demo\\Views\\Authentication\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T18:13:18.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Teacher\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Views\\Teacher\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Teacher\\Edit.cshtml",
+              "RelativeToolTip": "SIMS_Demo\\Views\\Teacher\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T21:22:23.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "SIMS_Demo\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T21:10:38.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SIMS_TEST.csproj",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_TEST\\SIMS_TEST.csproj",
+              "RelativeDocumentMoniker": "SIMS_TEST\\SIMS_TEST.csproj",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_TEST\\SIMS_TEST.csproj",
+              "RelativeToolTip": "SIMS_TEST\\SIMS_TEST.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T21:07:06.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeacherControllerHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Controllers\\TeacherControllerHelpers.cs",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Controllers\\TeacherControllerHelpers.cs",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Controllers\\TeacherControllerHelpers.cs",
+              "RelativeToolTip": "SIMS_Demo\\Controllers\\TeacherControllerHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:45:21.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentControllerHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Controllers\\StudentControllerHelpers.cs",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Controllers\\StudentControllerHelpers.cs",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Controllers\\StudentControllerHelpers.cs",
+              "RelativeToolTip": "SIMS_Demo\\Controllers\\StudentControllerHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:40:35.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SIMS_Demo\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAuwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:39:56.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SIMS_Demo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T20:26:45.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SIMS_Demo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T20:15:41.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Models\\Student.cs",
+              "RelativeToolTip": "SIMS_Demo\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:15:16.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Student\\NewStudent.cshtml",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Views\\Student\\NewStudent.cshtml",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Student\\NewStudent.cshtml",
+              "RelativeToolTip": "SIMS_Demo\\Views\\Student\\NewStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T20:14:52.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "SIMS_Demo\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T20:14:36.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_TEST\\data.json",
+              "RelativeDocumentMoniker": "SIMS_TEST\\data.json",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_TEST\\data.json",
+              "RelativeToolTip": "SIMS_TEST\\data.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T21:20:29.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NewTeacher.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Teacher\\NewTeacher.cshtml",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Views\\Teacher\\NewTeacher.cshtml",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Teacher\\NewTeacher.cshtml",
+              "RelativeToolTip": "SIMS_Demo\\Views\\Teacher\\NewTeacher.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T21:20:30.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "SIMS_Demo\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T21:20:30.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "SIMS_Demo\\Controllers\\TeacherController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAuwD4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:30.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "SIMS_Demo\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\nguoi tinh bong dem\\Downloads\\SIMS_Demo\\SIMS_Demo\\Models\\Teacher.cs",
+              "RelativeToolTip": "SIMS_Demo\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:30.05Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

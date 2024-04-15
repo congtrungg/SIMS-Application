@@ -1,0 +1,136 @@
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\appsettings.Development.json
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\appsettings.json
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.staticwebassets.runtime.json
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.exe
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.deps.json
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.runtimeconfig.json
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.dll
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.pdb
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.AssemblyInfoInputs.cache
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.AssemblyInfo.cs
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.csproj.CoreCompileInputs.cache
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.MvcApplicationPartsAssemblyInfo.cache
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.RazorAssemblyInfo.cache
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.RazorAssemblyInfo.cs
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets.build.json
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets.development.json
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets\msbuild.SIMS_Demo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets\msbuild.build.SIMS_Demo.props
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SIMS_Demo.props
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SIMS_Demo.props
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\scopedcss\bundle\SIMS_Demo.styles.css
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\scopedcss\projectbundle\SIMS_Demo.bundle.scp.css
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.dll
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\refint\SIMS_Demo.dll
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.pdb
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.genruntimeconfig.cache
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\ref\SIMS_Demo.dll
+D:\Applied Programming and Design Principles_CODE\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\data.json
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\appsettings.json
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\data.json
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.staticwebassets.runtime.json
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.exe
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.deps.json
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.runtimeconfig.json
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.dll
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.pdb
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.AssemblyInfoInputs.cache
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.AssemblyInfo.cs
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.csproj.CoreCompileInputs.cache
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.RazorAssemblyInfo.cache
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.RazorAssemblyInfo.cs
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.sourcelink.json
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets\msbuild.SIMS_Demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets\msbuild.build.SIMS_Demo.props
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SIMS_Demo.props
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SIMS_Demo.props
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\scopedcss\bundle\SIMS_Demo.styles.css
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\scopedcss\projectbundle\SIMS_Demo.bundle.scp.css
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.dll
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\refint\SIMS_Demo.dll
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.pdb
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.genruntimeconfig.cache
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\ref\SIMS_Demo.dll
+C:\Users\nguoi tinh bong dem\Desktop\save-json-file\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\students.json
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\data.json
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\students.json
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.exe
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.deps.json
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.runtimeconfig.json
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.dll
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.pdb
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets\msbuild.SIMS_Demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets\msbuild.build.SIMS_Demo.props
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SIMS_Demo.props
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SIMS_Demo.props
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\scopedcss\bundle\SIMS_Demo.styles.css
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\scopedcss\projectbundle\SIMS_Demo.bundle.scp.css
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.dll
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\refint\SIMS_Demo.dll
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.pdb
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\ref\SIMS_Demo.dll
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.csproj.CopyComplete
+C:\Users\Admin\Desktop\SIMS-main\SIMS-main\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\User.json
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\appsettings.json
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\data.json
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\students.json
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\User.json
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.staticwebassets.runtime.json
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.exe
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.deps.json
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.runtimeconfig.json
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.dll
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\SIMS_Demo.pdb
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.csproj.AssemblyReference.cache
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.AssemblyInfoInputs.cache
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.AssemblyInfo.cs
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.csproj.CoreCompileInputs.cache
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.RazorAssemblyInfo.cache
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.RazorAssemblyInfo.cs
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets\msbuild.SIMS_Demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets\msbuild.build.SIMS_Demo.props
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SIMS_Demo.props
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SIMS_Demo.props
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\scopedcss\bundle\SIMS_Demo.styles.css
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\scopedcss\projectbundle\SIMS_Demo.bundle.scp.css
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.csproj.Up2Date
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.dll
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\refint\SIMS_Demo.dll
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.pdb
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\SIMS_Demo.genruntimeconfig.cache
+C:\Users\nguoi tinh bong dem\Downloads\SIMS_Demo\SIMS_Demo\obj\Debug\net8.0\ref\SIMS_Demo.dll
